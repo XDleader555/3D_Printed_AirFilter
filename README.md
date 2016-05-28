@@ -1,8 +1,8 @@
-<h1> 140mm 3D Printed Air Filter </h1>
+<h1> 120mm 3D Printed Air Filter </h1>
 Best used for small amounts of fume removal
 
 <h2> Introduction </h2>
-Originally intended to filter dust from a room, this 140mm air filter will easily filter small amount of fumes from a short distance. It works great for soldering and whatnot, but not very useful for filtering dust from a room.
+Originally intended to filter dust from a room, this 120mm air filter will easily filter small amount of fumes from a short distance. It works great for soldering and whatnot, but not very useful for filtering dust from a room.
 
 At the max speed, the brushless fan is quite loud. Not the best for leaving on in the background. It's controlled by an ATTiny85 (not included in this repo) with an IRL3803 MOSFET with a saftey flyback diode.
 
