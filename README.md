@@ -1,6 +1,7 @@
 <h1> 120mm 3D Printed Air Filter </h1>
-Best used for small amounts of fume removal
-More info here: <a href="http://andrewmiyaguchi.com/blog/?p=110#more-110">My Website</a>
+Best used for small amounts of fume removal.
+
+More info here: <a href="http://andrewmiyaguchi.com/blog/?p=110">My Website</a>
 
 <h2> Introduction </h2>
 Originally intended to filter dust from a room, this 120mm air filter will easily filter small amount of fumes from a short distance. It works great for soldering and whatnot, but not very useful for filtering dust from a room.
